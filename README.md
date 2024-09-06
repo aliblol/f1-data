@@ -6,8 +6,8 @@ This project provides an API to fetch Formula 1 race data using the `fastf1` lib
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/aliblol/f1-data-api.git
-    cd f1-data-api
+    git clone https://github.com/aliblol/f1-data.git
+    cd f1-data
     ```
 
 2. Create a virtual environment and activate it:
